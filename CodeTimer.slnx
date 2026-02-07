@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CodeTimer.DataAccess/CodeTimer.DataAccess.csproj" Id="21e2a9fd-6385-4443-9c8a-40187cb892fc" />
+  <Project Path="CodeTimer.Service/CodeTimer.Service.csproj" Id="92d06b29-eb7d-4ee9-b967-9c7946b9542d" />
+  <Project Path="CodeTimer.UI/CodeTimer.UI.csproj" />
+</Solution>
